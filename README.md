@@ -102,7 +102,7 @@ Open-source for educational and research purposes.
 
 ## 🙏 Acknowledgements
 - SIL International for Abyssinica font
-- Source of Amharic news dataset (if public)
+- Source of Amharic news dataset (Kaggle)
 
 ---
 
